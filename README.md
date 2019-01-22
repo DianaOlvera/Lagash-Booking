@@ -11,6 +11,8 @@ El prototipo de la aplicacion contiene dos pantallas la principal donde muestra 
 
 ### Mapa del cine
 
+![mapa](https://github.com/DianaOlvera/Lagash-Booking/blob/master/assets/mapa.PNG)
+
 Muestra 4  circulos representando los asientos del cine, los cuales tienen diferente status
 *Disponible [color gris claro]
 *Ocupado [ color gris oscuro]
@@ -20,6 +22,9 @@ El usuario puede elegir el asiento que sea de su preferencia.
 
 
 ### Resumen de pedido
+
+![mapa](https://github.com/DianaOlvera/Lagash-Booking/blob/master/assets/compra.PNG)
+
 Muestra la cantidad a pagar dependiendo de los asientos que requiera comprar, si el usuario elige 3 asientos se le hara un descuento correspondiente al 50% sobre el total
 
 ## Producto final
