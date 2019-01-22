@@ -1,6 +1,6 @@
 # Lagash-Booking
 
-### Descripcion
+## Descripcion
 
 Crear una aplicación web, que te permita seleccionar lugares para la entrada a un cine.
 
@@ -18,7 +18,7 @@ Muestra 4  circulos representando los asientos del cine, los cuales tienen difer
 El usuario puede elegir el asiento que sea de su preferencia.
 
 
-###Resumen de pedido
+####Resumen de pedido
 Muestra la cantidad a pagar dependiendo de los asientos que requiera comprar, si el usuario elige 3 asientos se le hara un descuento correspondiente al 50% sobre el total
 
 ##Producto final
@@ -34,7 +34,7 @@ Muestra la cantidad a pagar dependiendo de los asientos que requiera comprar, si
 
 
 
-###Tecnologias
+####Tecnologias
 :ballot_box_with_check: Javascript
 :ballot_box_with_check: HTML5
 :ballot_box_with_check: CSS3
