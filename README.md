@@ -9,7 +9,8 @@ Crear una aplicación web, que te permita seleccionar lugares para la entrada a 
 
 El prototipo de la aplicacion contiene dos pantallas la principal donde muestra el *Mapa del cine* y *Resumen del pedido*
 
-###Mapa del cine
+### Mapa del cine
+
 Muestra 4  circulos representando los asientos del cine, los cuales tienen diferente status
 *Disponible [color gris claro]
 *Ocupado [ color gris oscuro]
@@ -18,10 +19,10 @@ Muestra 4  circulos representando los asientos del cine, los cuales tienen difer
 El usuario puede elegir el asiento que sea de su preferencia.
 
 
-####Resumen de pedido
+### Resumen de pedido
 Muestra la cantidad a pagar dependiendo de los asientos que requiera comprar, si el usuario elige 3 asientos se le hara un descuento correspondiente al 50% sobre el total
 
-##Producto final
+## Producto final
 
 **Demo**
 
@@ -34,7 +35,7 @@ Muestra la cantidad a pagar dependiendo de los asientos que requiera comprar, si
 
 
 
-####Tecnologias
+#### Tecnologias
 :ballot_box_with_check: Javascript
 :ballot_box_with_check: HTML5
 :ballot_box_with_check: CSS3
