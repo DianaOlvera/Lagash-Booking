@@ -26,6 +26,8 @@ Muestra la cantidad a pagar dependiendo de los asientos que requiera comprar, si
 
 **Demo**
 
+https://dianaolvera.github.io/Lagash-Booking/
+
 
 
 
